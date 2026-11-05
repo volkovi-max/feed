@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2025-01-20T12:00:00+03:00">
+    <shop>
+        <name>Флоувоу минимальный магазин</name>
+        <company>ООО Флоувоу</company>
+        <url>https://flowwow.loc</url>
+        <categories>
+            <category id="1">Цветы</category>
+        </categories>
+        <offers>
+            <offer id="1234569" available="true">
+				<categoryId>1</categoryId>
+				<price>151515</price>
+				<name>Новый товар с новыйм названим, опианием фоо</name>
+				<description>Классический букет из 5 роз минимальные поля и поменяем цену для обновления</description>
+<picture>https://zvettorg.ru/upload/dev2fun.imagecompress/webp/iblock/ccb/5ndj9q1l1103ix70t0dna3yamogabkw7.webp</picture>
+<picture>https://content3.flowwow-images.com/data/flowers/524x524/62/1738824866_65837362.jpg</picture>
+				<consist name="роза" unit="шт">50</consist>
+				<param name="Высота, см">400</param>
+				<param name="Ширина, мм">250</param>
+<qty>20</qty>
+<compliance_document type="1">https://pub.fsa.gov.ru/rds/declaration/view/123456</compliance_document>
+<compliance_document type="2">https://pub.fsa.gov.ru/rss/certificate/view/654321</compliance_document>
+<compliance_document type="3">https://tech.eaeunion.org/tech/certificate/7890</compliance_document>
+			</offer>
+         </offers>
+    </shop>
+</yml_catalog>
