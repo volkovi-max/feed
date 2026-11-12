@@ -21,7 +21,6 @@
 <qty>20</qty>
 <compliance_document type="1">https://pub.fsa.gov.ru/rds/declaration/view/123456</compliance_document>
 <compliance_document type="2">https://pub.fsa.gov.ru/rss/certificate/view/654321</compliance_document>
-<compliance_document type="3">https://tech.eaeunion.org/tech/certificate/7890</compliance_document>
 			</offer>
          </offers>
     </shop>
