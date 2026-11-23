@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2026-11-12T12:00:00+03:00">
+    <shop>
+        <name>Флоувоу минимальный магазин</name>
+        <company>ООО Флоувоу</company>
+        <url>https://flowwow.loc</url>
+        <categories>
+            <category id="28">Торты</category>
+        </categories>
+        <offers>
+            <offer id="Ilyaqa1" available="true">
+                <categoryId>28</categoryId>
+                <price>1</price>
+                <name>Шоколадный торт</name>
+                <description>Шоколадный бисквит со сливочным кремом. Вес 1 кг.</description>
+                <picture>https://content2.flowwow-images.com/data/flowers/1000x1000/50/1731068334_38959650.jpg</picture>
+                <param name="Состав">Пшеничная мука, яйца, сахар, какао, сливки, сливочное масло, шоколад.</param>
+                <weight>1</weight>
+                <param name="Высота, см">10</param>
+                <param name="Ширина, мм">180</param>
+                <production_time>-1</production_time>
+                <compliance_document type="1">https://pub.fsa.gov.ru/rds/declaration/view/123456</compliance_document>
+                <compliance_document type="2">https://pub.fsa.gov.ru/rss/certificate/view/654321</compliance_document>
+            </offer>
+        </offers>
+    </shop>
+</yml_catalog>
