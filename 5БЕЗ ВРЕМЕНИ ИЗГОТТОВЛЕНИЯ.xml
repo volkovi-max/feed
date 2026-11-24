@@ -5,7 +5,7 @@
         <company>ООО Флоувоу</company>
         <url>https://flowwow.loc</url>
         <categories>
-            <category id="28222">Торты</category>
+            <category id="28">Торты</category>
         </categories>
         <offers>
             <offer id="Ilyaqa1" available="true">
@@ -18,7 +18,7 @@
                 <weight>1</weight>
                 <param name="Высота, см">10</param>
                 <param name="Ширина, мм">180</param>
-                <production_time>-1</production_time>
+                <production_time>72</production_time>
                 <compliance_document type="1">https://pub.fsa.gov.ru/rds/declaration/view/123456</compliance_document>
                 <compliance_document type="2">https://pub.fsa.gov.ru/rss/certificate/view/654321</compliance_document>
             </offer>
