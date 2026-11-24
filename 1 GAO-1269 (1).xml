@@ -8,7 +8,7 @@
             <category id="1">Цветы</category>
         </categories>
         <offers>
-            <offer id="Ilyaqa1" available="true">
+            <offer id="Ilyaqa2" available="true">
 				<categoryId>1</categoryId>
 				<price>1</price>
 				<name>Новый товар с новыйм названим, опианием фоо</name>
