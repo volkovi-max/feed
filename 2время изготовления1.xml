@@ -9,7 +9,7 @@
         </categories>
         <offers>
             <offer id="Ilyaqa1" available="true">
-				<categoryId>1</categoryId>
+				<categoryId></categoryId>
 				<price>1</price>
 				<name>Новый товар с новыйм названим, опианием фоо</name>
 				<description>Классический букет из 50 роз минимальные поля и поменяем цену для обновления</description>
@@ -24,4 +24,4 @@
 			</offer>
          </offers>
     </shop>
-</yml_catalog>
+
