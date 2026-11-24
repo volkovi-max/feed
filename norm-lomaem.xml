@@ -3,12 +3,12 @@
     <shop>
         <name>Флоувоу минимальный магазин</name>
         <company>ООО Флоувоу</company>
-        <url>https://flowwow.loc</url>
+        <url>https://flowwowfdgfd.locsdfvc</url>
         <categories>
             <category id="28">Торты</category>
         </categories>
         <offers>
-            <offer id="Ilyaqa3" available="true">
+            <offer id="Ilyaqa33" available="true">
                 <categoryId>28</categoryId>
                 <price>1</price>
                 <name>Шоколадный торт</name>
