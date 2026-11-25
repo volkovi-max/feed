@@ -5,11 +5,11 @@
         <company>ООО Флоувоу</company>
         <url>https://flowwow.loc</url>
         <categories>
-            <category id="11111">Цветы</category>
+            <category id="28">Цветы</category>
         </categories>
         <offers>
             <offer id="Ilyaqa321" available="true">
-				<categoryId>11111</categoryId>
+				<categoryId>1111</categoryId>
 				<price>1</price>
 				<name>фобо1</name>
 				<description>Классический букет из 50 роз минимальные поля и поменяем цену для обновления</description>
