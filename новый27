@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2026-11-27 09:00">
+  <shop>
+    <name>YML-1312 Тестовый магазин</name>
+    <company>YML-1312 Тестовый магазин</company>
+    <url>https://flowwow.com/</url>
+    <currencies>
+      <currency id="RUB" rate="1"/>
+    </currencies>
+    <categories>
+      <category id="22">Букеты из фруктов</category>
+      <category id="118">Цветы поштучно</category>
+    </categories>
+    <offers>
+      <offer id="1312012" available="true">
+        <name>YML-1312 Т1 Букет с максимумом1</name>
+        <description>Фруктовый букет из семи красных яблок.</description>
+        <price>1500</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>22</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/1/15/Red_Apple.jpg</picture>
+        <production_time>60</production_time>
+        <param name="Ширина, см">25</param>
+        <param name="Высота, см">30</param>
+        <consist name="Яблоко" unit="шт">7</consist>
+        <minorder>2</minorder>
+        <maxorder>10</maxorder>
+      </offer>
+      <offer id="1312023" available="true">
+        <name>YML-1312 Т2 Букет без максимума1</name>
+        <description>Фруктовый букет из семи красных яблок.</description>
+        <price>1500</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>22</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/1/15/Red_Apple.jpg</picture>
+        <production_time>60</production_time>
+        <param name="Ширина, см">25</param>
+        <param name="Высота, см">30</param>
+        <consist name="Яблоко" unit="шт">7</consist>
+      </offer>
+      <offer id="1312034" available="true">
+        <name>YML-1312 Т3 Максимум меньше минимума1</name>
+        <description>Фруктовый букет из семи красных яблок.</description>
+        <price>1500</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>22</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/1/15/Red_Apple.jpg</picture>
+        <production_time>60</production_time>
+        <param name="Ширина, см">25</param>
+        <param name="Высота, см">30</param>
+        <consist name="Яблоко" unit="шт">7</consist>
+        <minorder>3</minorder>
+        <maxorder>1</maxorder>
+      </offer>
+      <offer id="1312045" available="true">
+        <name>YML-1312 Т4 Текст вместо максимума1</name>
+        <description>Фруктовый букет из семи красных яблок.</description>
+        <price>1500</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>22</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/1/15/Red_Apple.jpg</picture>
+        <production_time>60</production_time>
+        <param name="Ширина, см">25</param>
+        <param name="Высота, см">30</param>
+        <consist name="Яблоко" unit="шт">7</consist>
+        <maxorder>много</maxorder>
+      </offer>
+      <offer id="1312056" available="true">
+        <name>YML-1312 Т5 Нулевой максимум1</name>
+        <description>Фруктовый букет из семи красных яблок.</description>
+        <price>1500</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>22</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/1/15/Red_Apple.jpg</picture>
+        <production_time>60</production_time>
+        <param name="Ширина, см">25</param>
+        <param name="Высота, см">30</param>
+        <consist name="Яблоко" unit="шт">7</consist>
+        <maxorder>0</maxorder>
+      </offer>
+      <offer id="1312067" available="true">
+        <name>YML-1312 Т6 Максимум выше предела1</name>
+        <description>Фруктовый букет из семи красных яблок.</description>
+        <price>1500</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>22</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/1/15/Red_Apple.jpg</picture>
+        <production_time>60</production_time>
+        <param name="Ширина, см">25</param>
+        <param name="Высота, см">30</param>
+        <consist name="Яблоко" unit="шт">7</consist>
+        <maxorder>100000</maxorder>
+      </offer>
+      <offer id="1312078" available="true">
+        <name>YML-1312 Т7 Роза поштучно1</name>
+        <description>Одна роза высотой 40 см.</description>
+        <price>250</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>118</categoryId>
+        <picture>https://klumba.ru/storage/images/goods/image_60701be3cbd95.jpg</picture>
+        <param name="Ширина, см">25</param>
+        <param name="Высота, см">40</param>
+        <count>30</count>
+        <maxorder>10</maxorder>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>
