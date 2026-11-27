@@ -24,7 +24,7 @@
         <param name="Высота, см">30</param>
         <consist name="Яблоко" unit="шт">7</consist>
         <minorder>2</minorder>
-        <maxorder>10</maxorder>
+        <maxorder>20</maxorder>
       </offer>
       <offer id="1312023" available="true">
         <name>YML-1312 Т2 Букет без максимума1</name>
@@ -37,6 +37,7 @@
         <param name="Ширина, см">25</param>
         <param name="Высота, см">30</param>
         <consist name="Яблоко" unit="шт">7</consist>
+        <maxorder>5</maxorder>
       </offer>
       <offer id="1312034" available="true">
         <name>YML-1312 Т3 Максимум меньше минимума1</name>
